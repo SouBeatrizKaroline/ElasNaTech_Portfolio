@@ -1,0 +1,129 @@
+/*Estilo de Imagem de Fundo*/
+
+body {
+    margin: 0 auto;
+    padding: auto;
+    background-image: url('img/teladefundo.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    max-width: 100% auto;
+    max-height: 100% auto;
+}
+
+/*Fontes*/
+
+h1{
+    font-family: 'Margarine';
+    font-style: normal;
+    font-size: 128px;
+    color: #FFFFFF;
+}
+
+h2{
+    font-family: 'Margarine';
+    font-style: normal;
+    font-size: 64px;
+    color: #FFFFFF;
+    padding: 0 auto;
+    margin-left: 24px;
+}
+
+p{
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+/*Posições*/
+
+/*Pagina Inicial
+
+/*Menu de Navegação*/
+
+#navegacao, #menu{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#navegacao{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+#menu{
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+
+/*main*/
+
+.saudacao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#saudacaoola{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+/*footer*/
+
+.maisredespor{
+    display: flex;
+    flex-direction: row;
+}
+
+#redessociais{
+    display: inline;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#feitopor{
+    margin-right: 16px;
+    text-align: end;
+}
+
+/*logo*/
+#logo{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+#logo>img{
+    width: 100px;
+}
+
+form{
+    font: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+
+#imgtrajetoria{
+    text-align: center;
+}
+
+.aprendendo{
+    display: list-item;
+}
+
+h5{
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+}
