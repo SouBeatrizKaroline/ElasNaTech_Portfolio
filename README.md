@@ -1,10 +1,18 @@
-# ElasNaTech();
-### Curso Online
-#### Turma 2
-## Portfolio
+# ElasNaTech
 
-### Estou usando
-<div style="display:inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+> Turma 2
+
+Projeto final do curso
+
+[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/ElasNaTech_Portfolio/)
+
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+## 💙 Contato
+
+ebeatrizkcs@gmail.com
